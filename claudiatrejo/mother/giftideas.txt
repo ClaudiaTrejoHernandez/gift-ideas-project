@@ -1,8 +1,4 @@
-mother:
+mother's gift:
 Flower bouquet
 Spa day
-
-father:
-Golf day reservation
-Steak house
 
